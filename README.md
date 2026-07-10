@@ -13,10 +13,12 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
+| [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
