@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
