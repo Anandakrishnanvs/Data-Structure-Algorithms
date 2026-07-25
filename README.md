@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
