@@ -1,0 +1,14 @@
+num = []
+n1 = int(input("enter the length of list:"))
+for i in range(n1):
+    data = int(input())
+    num.append(data)
+print("num:",num)
+def  secondLargest(num):
+    nums = list(set(num))
+    nums.sort()
+    l = len(nums) 
+    if l<2: return -1
+    else: return nums[-2]
+n = secondLargest(num)
+print(n)
