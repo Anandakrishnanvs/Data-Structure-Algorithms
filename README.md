@@ -11,11 +11,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
