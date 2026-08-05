@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
