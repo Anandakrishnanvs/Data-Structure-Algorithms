@@ -23,6 +23,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
