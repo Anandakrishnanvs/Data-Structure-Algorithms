@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
