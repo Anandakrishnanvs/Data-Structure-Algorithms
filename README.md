@@ -37,6 +37,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/2390-removing-stars-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
 <!---LeetCode Topics End-->
