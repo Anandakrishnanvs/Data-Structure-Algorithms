@@ -38,6 +38,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -78,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
