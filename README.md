@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
