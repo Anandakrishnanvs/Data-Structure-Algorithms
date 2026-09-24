@@ -7,6 +7,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
