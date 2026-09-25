@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
