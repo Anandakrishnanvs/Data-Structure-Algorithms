@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3366-minimum-array-sum](https://github.com/Anandakrishnanvs/Data-Structure-Algorithms/tree/master/3366-minimum-array-sum) |
 ## Monotonic Stack
 |  |
